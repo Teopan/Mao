@@ -1,2 +1,2 @@
 # Mao
-This is a project for Mhtrou
+This is a project for Mitrou
