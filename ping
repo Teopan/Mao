@@ -1,0 +1,9 @@
+# Nmap 7.70 scan initiated Wed Jul  4 16:24:02 2018 as: nmap -sn -oG ping 192.168.1.1-24
+Host: 192.168.1.1 (speedport-entry-2i.ote.gr)	Status: Up
+Host: 192.168.1.2 (android-365cc8d3db4299a2)	Status: Up
+Host: 192.168.1.8 (redminote4-redmi)	Status: Up
+Host: 192.168.1.14 (192.168.1.14)	Status: Up
+Host: 192.168.1.21 (desktop-snv6rue)	Status: Up
+Host: 192.168.1.22 (desktop-epotssd)	Status: Up
+Host: 192.168.1.20 (sana)	Status: Up
+# Nmap done at Wed Jul  4 16:24:03 2018 -- 24 IP addresses (7 hosts up) scanned in 1.05 seconds
