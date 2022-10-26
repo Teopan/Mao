@@ -1,0 +1,8 @@
+- Λογιστικη Αξία ανα Μετοχή (Book value per Share [BVPS])
+- Τρέχουσα Μερισματική Απόδοση (Current dividend yield)
+- Τρέχων P/E (Current Price per Earnings [P/E])
+- Τρέχουσα Απόδοση Κερδών (Earnings yield [Ε/Ρ]) -  Earnings Yield = EPS / Price = 1 / (P/E Ratio), expressed as a percentage 
+- Υψηλότερο P/E πενταετίας (High5YrAverage P/E)
+- Κυκλοφορούν Ενεργητικό (Current Assets)
+- Απόδοση 10-ετούς ομολόγου (10 year bond yield [3.03%])
+- Καθαρά Κέρδη Εταιρείας (2017-2021) (Net income)
